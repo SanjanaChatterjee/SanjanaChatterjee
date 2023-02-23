@@ -1,3 +1,4 @@
+![logo](https://github.com/SanjanaChatterjee/SanjanaChatterjee/blob/main/Sanjana%20Chatterjee.png)
 <h1 align="center">Hi there 👋, I'm Sanjana!</h1>
 <h3 align="center">A passionate frontend development learner from India</h3>
 

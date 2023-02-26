@@ -1,4 +1,4 @@
-![logo](https://github.com/SanjanaChatterjee/SanjanaChatterjee/blob/main/Purple%20Blue%20Modern%20Gradient%20Fashion%20Designer%20-%20Linkedin%20Banner.jpg)
+![logo](https://github.com/SanjanaChatterjee/SanjanaChatterjee/blob/main/Sanjana%20-%20Linkedin%20Banner.jpg)
 <h1 align="center">Hi there 👋, I'm Sanjana!</h1>
 <h3 align="center">A passionate frontend development learner from India</h3>
 

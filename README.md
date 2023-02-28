@@ -1,4 +1,4 @@
-![logo](https://github.com/SanjanaChatterjee/SanjanaChatterjee/blob/main/Sanjana%20-%20Linkedin%20Banner.jpg)
+![logo](https://github.com/SanjanaChatterjee/SanjanaChatterjee/blob/main/Sanjana%20Chatterjee%20-%20Linkedin%20Banner.jpg)
 <h1 align="center">Hi , I'm Sanjana Chatterjee</h1>
 <h3 align="center">A passionate frontend development learner from India</h3>
 

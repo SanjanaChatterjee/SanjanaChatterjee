@@ -1,5 +1,5 @@
 ![logo](https://github.com/SanjanaChatterjee/SanjanaChatterjee/blob/main/Sanjana%20Chatterjee%20-%20Linkedin%20Banner.jpg)
-<h1 align="center">Hi , I'm Sanjana Chatterjee</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" />, I'm Sanjana Chatterjee</h1>
 <h3 align="center">A passionate frontend development learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanachatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanachatterjee" /> </p>

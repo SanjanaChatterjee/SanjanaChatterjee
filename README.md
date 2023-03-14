@@ -15,12 +15,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanjana_army3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjana_army3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanjana chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjana chatterjee" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/sanjanachatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/sanjanachatterjee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjana-chatterjee-a4435523b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjana-chatterjee-a4435523b" height="30" width="40" /></a>
+<a href="https://codesandbox.com/sanjanachatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sanjanachatterjee" height="30" width="40" /></a>
 <a href="https://fb.com/sanjana chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjana chatterjee" height="30" width="40" /></a>
 <a href="https://instagram.com/sanjana_jpeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjana_jpeg" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/sanjanachatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/sanjanachatterjee" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@sanjana03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sanjana03" height="30" width="40" /></a>
+<a href="https://www.behance.net/sanjanachatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sanjanachatterjee" height="30" width="40" /></a>
+<a href="https://hashnode.com/@sanjana03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sanjana03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

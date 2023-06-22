@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/SanjanaChatterjee/SanjanaChatterjee/blob/main/20230310_214552.png)
+![Profile Banner](https://github.com/SanjanaChatterjee/SanjanaChatterjee/blob/main/Sanjana%20Chatterjee%20-%20Linkedin%20Banner%20(1).png)
 <h1 align="center">Hi <img src="https://github.com/SanjanaChatterjee/SanjanaChatterjee/blob/main/waving-hand_1f44b.gif" width="40px" />, I'm Sanjana Chatterjee</h1>
 <h3 align="center">A passionate frontend development learner from India</h3>
 
